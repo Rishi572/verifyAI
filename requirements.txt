@@ -1,6 +1,6 @@
 flask
 flask-cors
 numpy
-torch
+torch --index-url https://download.pytorch.org/whl/cpu
 lime
-scikit-learn 
+scikit-learn
