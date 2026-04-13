@@ -257,4 +257,4 @@ def get_metrics():
     return jsonify({"error": "No training history found"}), 404
 
 if __name__ == '__main__':
-    app.run(port=7860, debug=True)
+app.run(host="0.0.0.0", port=7860, debug=False)
