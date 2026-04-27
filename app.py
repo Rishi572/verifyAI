@@ -111,13 +111,54 @@ def temporal_module(text):
     return 0.60 + (random.random() * 0.40)
 
 def database_module(text):
+    """
+    Check the trained database for matching content.
+    Returns a score based on whether similar content was marked as real or fake.
+    """
     text_lower = text.lower()
+    text_words = set(text_lower.split())
     
-    # Direct demo presentation override bypass
-    if "verified fact" in text_lower:
-        return 0.80
-    else:
-        return 0.30
+    if not text_words or not database:
+        return 0.40  # neutral if no database or empty text
+    
+    best_score = 0.0
+    best_type = None
+    
+    for entry in database:
+        # Compare against both title and content fields
+        entry_text = ''
+        if entry.get('title'):
+            entry_text += entry['title'].lower() + ' '
+        if entry.get('content'):
+            entry_text += entry['content'].lower()
+        
+        if not entry_text.strip():
+            continue
+            
+        entry_words = set(entry_text.split())
+        
+        # Calculate Jaccard similarity (word overlap)
+        if not entry_words:
+            continue
+        intersection = text_words & entry_words
+        union = text_words | entry_words
+        similarity = len(intersection) / len(union) if union else 0.0
+        
+        if similarity > best_score:
+            best_score = similarity
+            best_type = entry.get('type', '').lower()
+    
+    # If we found a strong enough match in the database, use its label
+    if best_score >= 0.3 and best_type:
+        if best_type == 'real':
+            # Scale: 0.3 similarity -> 0.70, 1.0 similarity -> 0.95
+            return min(0.95, 0.70 + (best_score - 0.3) * 0.36)
+        elif best_type == 'fake':
+            # Scale: 0.3 similarity -> 0.20, 1.0 similarity -> 0.05
+            return max(0.05, 0.20 - (best_score - 0.3) * 0.21)
+    
+    # No strong match found
+    return 0.40
 
 def final_prediction_ensemble(texts):
     final_probs = []
@@ -144,6 +185,9 @@ def serve_index():
 
 @app.route('/predict', methods=['POST'])
 def analyze_article():
+    global database
+    database = load_db()  # Reload so newly trained entries are picked up
+    
     data = request.json
     text = data.get('text', '')
     if not text:

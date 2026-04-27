@@ -192,3 +192,205 @@ Successfully loaded PyTorch BiLSTM Trained on FakeNewsNet!
 127.0.0.1 - - [13/Apr/2026 23:04:15] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
 127.0.0.1 - - [13/Apr/2026 23:04:15] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
 127.0.0.1 - - [13/Apr/2026 23:04:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ * Detected change in '/Users/satyajeetkumar/Desktop/project 2/app.py', reloading
+Successfully loaded PyTorch BiLSTM Trained on FakeNewsNet!
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 133-651-442
+ * Detected change in '/Users/satyajeetkumar/Desktop/project 2/app.py', reloading
+Successfully loaded PyTorch BiLSTM Trained on FakeNewsNet!
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 133-651-442
+ * Detected change in '/Users/satyajeetkumar/Desktop/project 2/app.py', reloading
+Successfully loaded PyTorch BiLSTM Trained on FakeNewsNet!
+ * Restarting with stat
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+  File "/Users/satyajeetkumar/Desktop/project 2/app.py", line 260
+    app.run(host="0.0.0.0", port=7860, debug=False)
+    ^^^
+IndentationError: expected an indented block after 'if' statement on line 259
+Successfully loaded PyTorch BiLSTM Trained on FakeNewsNet!
+ * Serving Flask app 'app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://192.168.18.62:7860
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [16/Apr/2026 13:27:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/Apr/2026 13:27:42] "GET /index.css HTTP/1.1" 200 -
+127.0.0.1 - - [16/Apr/2026 13:27:42] "GET /app.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/Apr/2026 13:27:42] "GET /api/database HTTP/1.1" 200 -
+127.0.0.1 - - [16/Apr/2026 13:27:42] "GET /api/metrics HTTP/1.1" 200 -
+127.0.0.1 - - [16/Apr/2026 13:27:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [16/Apr/2026 13:27:43] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+127.0.0.1 - - [16/Apr/2026 13:27:43] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+127.0.0.1 - - [16/Apr/2026 13:27:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [16/Apr/2026 13:28:30] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [16/Apr/2026 13:49:01] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [16/Apr/2026 13:49:42] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:11:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:11:59] "GET /index.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:11:59] "GET /app.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:12:00] "GET /api/database HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:12:00] "GET /api/metrics HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:12:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [27/Apr/2026 22:12:50] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:15:03] "POST /api/train HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:16:35] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:16:50] "POST /api/train HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:17:07] "POST /predict HTTP/1.1" 200 -
+Successfully loaded PyTorch BiLSTM Trained on FakeNewsNet!
+ * Serving Flask app 'app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://192.168.18.78:7860
+[33mPress CTRL+C to quit[0m
+Successfully loaded PyTorch BiLSTM Trained on FakeNewsNet!
+ * Serving Flask app 'app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://192.168.18.78:7860
+[33mPress CTRL+C to quit[0m
+Successfully loaded PyTorch BiLSTM Trained on FakeNewsNet!
+ * Serving Flask app 'app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://192.168.18.78:7860
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [27/Apr/2026 22:24:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:24:16] "[36mGET /index.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Apr/2026 22:24:16] "[36mGET /app.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Apr/2026 22:24:16] "GET /api/database HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:24:16] "GET /api/metrics HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:25:21] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:25:35] "POST /api/train HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:25:59] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:26:38] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:40:24] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:40:56] "POST /predict HTTP/1.1" 200 -
+Successfully loaded PyTorch BiLSTM Trained on FakeNewsNet!
+ * Serving Flask app 'app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://192.168.18.78:7860
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [27/Apr/2026 22:44:57] "[36mGET / HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Apr/2026 22:44:57] "[36mGET /app.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Apr/2026 22:44:57] "[36mGET /index.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Apr/2026 22:44:57] "GET /api/database HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:44:57] "GET /api/metrics HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:45:44] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:46:09] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:47:03] "POST /predict HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:47:10] "POST /api/train HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:48:38] "[36mGET / HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Apr/2026 22:48:38] "[36mGET /index.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Apr/2026 22:48:38] "[36mGET /app.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Apr/2026 22:48:38] "GET /api/database HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:48:38] "GET /api/metrics HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:52:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:52:54] "[36mGET /index.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Apr/2026 22:52:54] "[36mGET /app.js HTTP/1.1[0m" 304 -
+127.0.0.1 - - [27/Apr/2026 22:52:54] "GET /api/database HTTP/1.1" 200 -
+127.0.0.1 - - [27/Apr/2026 22:52:54] "GET /api/metrics HTTP/1.1" 200 -
